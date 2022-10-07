@@ -1,2 +1,0 @@
-Banana  0.50
-Apples  1.00
